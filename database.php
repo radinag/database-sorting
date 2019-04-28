@@ -9,10 +9,10 @@ function exportPre($obj)
 // echo echoPre($_SERVER);
 //echo gethostname();
 
-if (gethostname() == "DESKTOP-6SMPPN7") {
-    $db = new PDO("mysql:host=localhost;dbname=ecommerce", "root", "root");
+if (gethostname() == "") {
+    $db = new PDO("mysql:host=localhost;dbname=", "", "");
 } else {
-    $db = new PDO("mysql:host=localhost;dbname=rgarfink_ecommerce", "rgarfinkel", "codeschool1");
+    $db = new PDO("mysql:host=localhost;dbname=", "", "");
 }
 
 ?>
