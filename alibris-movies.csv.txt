@@ -1,0 +1,19 @@
+86F936786675,Up,Movie by Pete Docter,9.03,1
+86G936846997,Inside Out,Movie by Pete Docter,14.32,7
+86G936812770,Cars 2,Movie by John Lasseter,14.35,10
+86D936850604,The Jungle Book,Movie by Jon Favreau,9.57,5
+86F936798333,Toy Story [Special Edition],Movie by John Lasseter,11.65,9
+86D936836134,Mary Poppins [50th...,Movie by Robert Stevenson,13.92,1
+86C936834628,Planes [Includes Digital Copy],Movie by Klay Hall,3.99,10
+24A543992646,The Peanuts Movie [Includes...,Movie by Steve Martino,3.22,0
+24G543068358,Home Alone,Movie by Chris Columbus,10.44,6
+31C398276418,My Little Pony: The Movie,Movie by Jayson Thiessen,25.25,0
+86B936233612,Flight of the Navigator,Movie by Randal Kleiser,5.1,5
+43G396501102,The Emoji Movie,Movie by Tony Leondis,7.0,9
+86B936281644,The Parent Trap [Special...,Movie by Nancy Meyers,6.46,3
+17C951008381,Dinosaur,Movie by Eric Leighton,8.49,2
+25F195003506,Harry and the Hendersons ...,Movie by William Dear,3.5,9
+86A936823004,Wreck-It Ralph,Movie by Rich Moore,11.65,2
+26D663181432,My Neighbor Totoro,Movie by Hayao Miyazaki,17.88,0
+94B043716829,Elf,Movie by Jon Favreau,2.99,6
+86A936854565,Cars 3,Movie by Brian Fee,14.99,8
