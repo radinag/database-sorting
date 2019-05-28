@@ -1,9 +1,5 @@
 <?php
 include "database.php";
-//function exportPre( $obj) {
-   // return "<pre>" . var_export( $obj, true ) . "</pre>";
-// }
-
 $sql = "SELECT * FROM inventory";
 $itemsort = "";
 if (isset($_GET['sortby'])) {
